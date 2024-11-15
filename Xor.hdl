@@ -2,7 +2,7 @@ CHIP Xor{
     IN a,b;
     OUT out;
     PARTS:
-    Not(in=a, out=nlOut);
+    Not(in=b, out=nlOut);
     And(a=a, b=nlOut, out=alOut );
     Not(in=a, out=nrOut);
     And(a=b,  b=nrOut, out=arOut);

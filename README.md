@@ -7,4 +7,4 @@
 
 ## Xor
 
-<img src="./XorSCR.png"/>
+<img src="./2.png"/>
